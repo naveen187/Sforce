@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="oauth_entity_profile_scope">
+    <oauth_entity_profile_scope action="INSERT_OR_UPDATE">
+        <oauth_entity_profile display_value="Salesforce default_profile">7f3e16932fe030106d745aab2799b6a8</oauth_entity_profile>
+        <oauth_entity_scope display_value="full">131f5edb2fa030106d745aab2799b64c</oauth_entity_scope>
+        <sys_class_name>oauth_entity_profile_scope</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-10 10:11:46</sys_created_on>
+        <sys_id>c7c026932fe030106d745aab2799b6c4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>7f3e16932fe030106d745aab2799b6a8</sys_name>
+        <sys_package display_value="Sforce" source="x_239637_sforce">362ad2db2fa030106d745aab2799b6be</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Sforce">362ad2db2fa030106d745aab2799b6be</sys_scope>
+        <sys_update_name>oauth_entity_profile_scope_c7c026932fe030106d745aab2799b6c4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-10 10:11:46</sys_updated_on>
+    </oauth_entity_profile_scope>
+</record_update>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD2ca58717472830106d8cc8807f707f41</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>362ad2db2fa030106d745aab2799b6be</scope_name>
+        <serialized_content>{"FlowDesigner:FD2ca58717472830106d8cc8807f707f41":{"$COCollectionField":[{"accountsobj":{"name":"String","name.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"name\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"0\",\"uiUniqueId\":\"84528ebf-08b9-48be-af46-54ca7babcb68\"}"},"id":"String","id.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"id\",\"mandatory\":\"false\",\"order\":\"3\",\"max_length\":\"0\",\"uiUniqueId\":\"2f90f637-e12c-44d0-94bd-ce5186c469c4\"}"}}}],"$COCollectionField.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"accounts\",\"mandatory\":\"false\",\"child_name\":\"accountsobj\",\"uiUniqueId\":\"6af7606f-2cc9-42d8-b12a-b2d56c51ced6\",\"uiTypeLabel\":\"Array.Object\",\"co_type_name\":\"FD2ca58717472830106d8cc8807f707f41\",\"child_label\":\"accountsobj\",\"child_type_label\":\"Object\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":null,\"uiType\":\"array.object\",\"child_defaultValue\":\"\",\"child_type\":\"object\",\"order\":\"1\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"90c7a373-b653-4c08-a79a-fd86095ade20\"}"},"$COCollectionField.$field_facets":{"SimpleMapFacet":"{\"up-shift-collection-level\":\"true\"}"}},"FlowDesigner:FD2ca58717472830106d8cc8807f707f41.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"accounts\",\"mandatory\":\"false\",\"child_name\":\"accountsobj\",\"uiUniqueId\":\"6af7606f-2cc9-42d8-b12a-b2d56c51ced6\",\"uiTypeLabel\":\"Array.Object\",\"co_type_name\":\"FD2ca58717472830106d8cc8807f707f41\",\"child_label\":\"accountsobj\",\"child_type_label\":\"Object\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":null,\"uiType\":\"array.object\",\"child_defaultValue\":\"\",\"child_type\":\"object\",\"order\":\"1\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"90c7a373-b653-4c08-a79a-fd86095ade20\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-10 12:47:02</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>eca587172f2830106d745aab2799b641</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FD2ca58717472830106d8cc8807f707f41</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Sforce" source="x_239637_sforce">362ad2db2fa030106d745aab2799b6be</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Sforce">362ad2db2fa030106d745aab2799b6be</sys_scope>
+        <sys_update_name>sys_complex_object_eca587172f2830106d745aab2799b641</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-10 12:47:02</sys_updated_on>
+        <type>complex_object_collection</type>
+    </sys_complex_object>
+</record_update>

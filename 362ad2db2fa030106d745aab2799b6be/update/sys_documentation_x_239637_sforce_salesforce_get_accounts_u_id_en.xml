@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_id" label="ID" language="en" table="x_239637_sforce_salesforce_get_accounts">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_id</element>
+            <help/>
+            <hint/>
+            <label>ID</label>
+            <language>en</language>
+            <name>x_239637_sforce_salesforce_get_accounts</name>
+            <plural>IDs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-10 12:48:03</sys_created_on>
+            <sys_id>5bd5cf172f2830106d745aab2799b600</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>ID</sys_name>
+            <sys_package display_value="Sforce" source="x_239637_sforce">362ad2db2fa030106d745aab2799b6be</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Sforce">362ad2db2fa030106d745aab2799b6be</sys_scope>
+            <sys_update_name>sys_documentation_x_239637_sforce_salesforce_get_accounts_u_id_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-10 12:48:03</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

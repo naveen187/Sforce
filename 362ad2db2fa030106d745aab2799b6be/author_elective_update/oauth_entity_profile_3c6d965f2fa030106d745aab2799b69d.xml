@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="oauth_entity_profile">
+    <oauth_entity_profile action="DELETE">
+        <default>true</default>
+        <grant_type>authorization_code</grant_type>
+        <jwt_provider/>
+        <name>salesforce default_profile</name>
+        <oauth_entity display_value="salesforce">83591a1b2fa030106d745aab2799b6d2</oauth_entity>
+        <sys_class_name>oauth_entity_profile</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-10 09:51:12</sys_created_on>
+        <sys_id>3c6d965f2fa030106d745aab2799b69d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>salesforce default_profile</sys_name>
+        <sys_package display_value="Sforce" source="x_239637_sforce">362ad2db2fa030106d745aab2799b6be</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Sforce">362ad2db2fa030106d745aab2799b6be</sys_scope>
+        <sys_update_name>oauth_entity_profile_3c6d965f2fa030106d745aab2799b69d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-10 09:51:12</sys_updated_on>
+    </oauth_entity_profile>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Sforce">362ad2db2fa030106d745aab2799b6be</application>
+        <file_path/>
+        <instance_id>db178ceddb1677400ae3ac44d4961919</instance_id>
+        <instance_name>dev88750</instance_name>
+        <name>oauth_entity_profile_3c6d965f2fa030106d745aab2799b69d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="oauth_entity_profile"><oauth_entity_profile action="INSERT_OR_UPDATE"><default>true</default><grant_type>authorization_code</grant_type><jwt_provider/><name>salesforce default_profile</name><oauth_entity display_value="salesforce">83591a1b2fa030106d745aab2799b6d2</oauth_entity><sys_class_name>oauth_entity_profile</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-06-10 09:51:12</sys_created_on><sys_id>3c6d965f2fa030106d745aab2799b69d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>salesforce default_profile</sys_name><sys_package display_value="Sforce" source="x_239637_sforce">362ad2db2fa030106d745aab2799b6be</sys_package><sys_policy/><sys_scope display_value="Sforce">362ad2db2fa030106d745aab2799b6be</sys_scope><sys_update_name>oauth_entity_profile_3c6d965f2fa030106d745aab2799b69d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-06-10 09:51:12</sys_updated_on></oauth_entity_profile></record_update>]]></payload>
+        <payload_hash>-1757012875</payload_hash>
+        <record_name>salesforce default_profile</record_name>
+        <reverted_from/>
+        <source>4f2ad2db2fa030106d745aab2799b6c0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-10 09:51:12</sys_created_on>
+        <sys_id>b06dd2532fe030106d745aab2799b604</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>179f55535240000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-10 09:51:12</sys_updated_on>
+        <type>OAuth Entity Profile</type>
+        <update_guid>f86dd253f1e030101a0437dc01f6d603</update_guid>
+        <update_guid_history>f86dd253f1e030101a0437dc01f6d603:-1757012875</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="salesforce default_profile">e9dd5a532fe030106d745aab2799b69c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-10 09:53:10</sys_created_on>
+        <sys_db_object display_value="" name="oauth_entity_profile">oauth_entity_profile</sys_db_object>
+        <sys_id>1ffdc65693484ee584d579057c510e89</sys_id>
+        <sys_metadata>3c6d965f2fa030106d745aab2799b69d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>salesforce default_profile</sys_name>
+        <sys_package display_value="Sforce" source="x_239637_sforce">362ad2db2fa030106d745aab2799b6be</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Sforce">362ad2db2fa030106d745aab2799b6be</sys_scope>
+        <sys_scope_delete display_value="">9c57d5dc4bde4f1fa6e6eec2fde40461</sys_scope_delete>
+        <sys_update_name>oauth_entity_profile_3c6d965f2fa030106d745aab2799b69d</sys_update_name>
+        <sys_update_version display_value="oauth_entity_profile_3c6d965f2fa030106d745aab2799b69d">b06dd2532fe030106d745aab2799b604</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-10 09:53:10</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
